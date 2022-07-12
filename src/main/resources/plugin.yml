@@ -1,0 +1,4 @@
+name: Iloveteddy
+version: '${project.version}'
+main: com.github.brunoleitec.iloveteddy.Iloveteddy
+api-version: 1.19
